@@ -1,0 +1,24 @@
+.paragraphs {
+font-family: "Verdana", "DejaVu sans", sans-serif ;
+background-color:rgb(252, 146, 151)
+
+}
+
+#numberTwoId {
+  color: blue;
+  font-size: 36px;
+
+}
+
+.buttCooler {
+    font-size: 24px;
+
+}
+
+#numberFourId {
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+
+}
+
